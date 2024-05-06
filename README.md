@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adegoke-Sherif
-- 👀 I’m a software developer.
+- 👀 I’m a backend developer.
 - 💞️ I’m looking to collaborate on Web applications ...
 - 📫 How to reach me 08136553057 ...
 
